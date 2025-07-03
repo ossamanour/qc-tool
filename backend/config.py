@@ -6,7 +6,8 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 class Config:
     """Base config"""
     # Database
-    SQLALCHEMY_DATABASE_URI = "postgresql+psycopg2://siteplan_dev:siteplan_dev@192.168.1.222/siteplan_dev?application_name=dev"
+    #SQLALCHEMY_DATABASE_URI = "postgresql+psycopg2://siteplan_dev:siteplan_dev@192.168.1.222/siteplan_dev?application_name=dev"
+    SQLALCHEMY_DATABASE_URI = "postgresql+psycopg2://ossama:123456@localhost/siteplan_dev?application_name=dev"
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     # # Security
