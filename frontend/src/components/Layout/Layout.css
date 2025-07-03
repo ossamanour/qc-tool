@@ -1,0 +1,65 @@
+.whole-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header-container, .footer-container {
+    height: 2em;
+    background-color: var(--lighter-color);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.body-container {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-div {
+    position: fixed;
+    left: 5px;
+    align-items: flex-start;
+    font-weight: bold;
+    cursor: pointer;
+}
+.logo-div:hover {
+    box-shadow: 1px 1px 1px 1px var(--darker-color);
+}
+
+.logo-img {
+    height: 2em;
+    width: 2em;
+    padding: 0;
+    will-change: filter;
+    transition: filter 300ms;
+    margin: 0;
+    vertical-align: middle;
+    /* position: fixed; */
+    /* left: 5px; */
+    /* cursor: pointer; */
+}
+/* .logo-img:hover {
+    box-shadow: 1px 1px 1px 1px var(--darker-color);
+}
+.logo-img.react:hover {
+    filter: drop-shadow(0 0 2em var(--darker-color));
+} */
+
+.task-div {
+    font-weight: bold;
+}
+
+.header-user {
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    top: 0px;
+    right: 5px;
+}
+

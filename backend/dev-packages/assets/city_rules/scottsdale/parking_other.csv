@@ -1,0 +1,115 @@
+﻿Landuse,Requirement,Formula
+Amusement parks,"Three (3) spaces per hole for any miniature golf course, plus one (1) space per three thousand (3,000) square feet of outdoor active recreation space, plus any additional spaces required for ancillary uses such as but not limited to game centers and pool halls.",3 * hole for miniature golf course + outdoor active reacreation space / 3000 + additional spaces for ancillary uses such as but not limited to game center and pool holls
+"Arts festivals, seasonal","A.  One (1) space for each two hundred (200) square feet of indoor public floor area, other than public restaurant space.
+B.  Restaurant at seasonal arts festivals shall be provided parking in accordance with table 9.103.a.",Resturant has No live entertainment or resturant with Live entertainment limited to hours that full menu is available and the area of live entertainment is less then 15% of gross floor area ?  The out door patio space is next to and oriented towards a publickly owned walkway or street ?? indoor public floor area other than public resaurant space / 200 + resturant gross floor area / 120 + ( resturant gross outdoor patio - 500 ) / 350 :: indoor public floor area other than public resaurant space / 200 + resturant gross floor area / 120 + (resturant  gross outdoor patio - 350 ) / 350 : The out door patio space is next to and oriented towards a publickly owned walkway or street ?? indoor public floor area other than public resaurant space / 200 + resturant gross floor area / 60 + ( resturant gross outdoor patio - 500 ) / 350 :: indoor public floor area other than public resaurant space / 200 + resturant gross floor area / 60 + ( resturant gross outdoor patio - 350 ) / 350 
+Banks/financial institutions,One (1) space per two hundred fifty (250) square feet gross floor area.,gross floor area / 250
+"Bars, cocktail lounges, taverns, afterhours or micro-brewery/distillery with live entertainment","A.  One (1) space per sixty (60) square feet of gross floor area; and
+B.  One (1) space per two hundred (200) gross
+square feet of outdoor patio area, excluding the first two hundred (200) gross square feet.",gross floor area / 60 + ( gross outdoor patio area - 200 ) / 200
+"Bars, cocktail lounges, taverns, afterhours or micro-brewery/distillery","A.  One (1) space per eighty (80) square feet of gross floor area; and
+B.  One (1) space per two hundred (200) gross square feet of outdoor patio area, excluding the first two hundred (200) gross square feet.",gross floor area / 80 + ( gross outdoor patio area - 200 ) / 200
+"Boardinghouses, lodging houses, and other such uses",One (1) parking space for each one (1) guest room or dwelling unit.,guest room or dwelling unit * 1
+Bowling alleys,"Four (4) parking spaces for each lane, plus two (2) parking spaces for any pool table, plus one (1) parking space for every five (5) audience seats.",lane * 4 + pool table * 2 + audience seats / 5
+Carwash,Four (4) spaces per bay or stall plus one (1) space per employee plus ten (10) stacking spaces.,bay or stall * 4 + employee * 1 + 10
+Churches and places of worship,"A.  With fixed seating. One (1) space per four
+(4) seats in main sanctuary, or auditorium, and c below; or
+B.  Without fixed seating. One (1) space for each thirty (30) square feet of gross floor area in main sanctuary and c below.
+C.  One (1) space per each three hundred
+(300) square feet gross floor area of classrooms and other meeting areas.",fixed seats ? fixed seats in main sanctuary or auditorium / 4 + gross floor area of classrooms and other meeting areas / 300 : gross floor area in main sanctuary / 30 + gross floor area of classrooms and other meeting areas / 300
+"Club/lodge, civic and social organizations",One (1) space per two hundred fifty (250) square feet gross floor area.,gross floor area / 250
+College/university,"One (1) space per two (2) employees plus one (1) space per four (4) students, based on projected maximum enrollment.",employee / 2 + students (projected maximum enrollement) / 4
+Community or recreation buildings,One (1) parking space for each two hundred (200) square feet of gross floor area.,gross floor area / 200
+"Conference and meeting facilities, or similar facilities","A.  One (1) parking space for every five (5) seats, if seats are fixed, and/or
+B.  One (1) parking space for fifty (50) square feet of gross floor area of conference/meeting area.",fixed seats ? fixed seats / 5 + gross floor area of conference/meeting area / 50 : gross floor area of conference/meeting area / 50 
+Cultural institutions and museums,One (1) space per three hundred (300) square feet gross floor area.,gross floor area / 300
+"Dance halls, skating rinks, and similar indoor recreational uses",One (1) parking space for each three hundred (300) square feet of gross floor area in the building.,gross floor area in the building / 300
+Dance/music/and professional schools,One (1) space per two hundred (200) square feet of gross floor area classroom area.,gross floor area classroom area / 200
+Day care center,"One (1) parking space for each employee; plus one (1) space for every fifteen (15) students, plus one (1) space for each company vehicle as per Section 9.103.H., additional requirements for company vehicles.",employee * 1 + students / 25 + company vehicle * 1
+Dry cleaners,One (1) space per two hundred fifty (250) square feet gross floor area.,gross floor are / 250
+"Dwellings, multiple-family","Parking spaces per dwelling unit at the rate of:
+efficiency units 1.25
+one-bedroom 1.3
+two-bedrooms 1.7
+three (3) or more bedrooms 1.9
+Guest Parking:
+1 space per every 6 units. Guest spaces shall be located so they are easily accessed by guests, as determined by the Development Review Board.",efficiency unit * 1.25 + one-bedroom * 1.3 + two-bedrooms * 1.7 + three or more bedrooms * 1.9 + ( efficiency unit + one-bedroom + two-bedrooms + three or more bedrooms ) / 6
+"Dwellings, single- and two-family and townhouses",Two (2) spaces per unit.,unit * 2
+Elementary schools,One (1) parking space for each classroom plus one (1) parking space for each two hundred (200) square feet of gross floor area in office areas.,classroom * 1 + gross floor area in office area / 200
+Funeral homes and funeral services,"A.  One (1) parking space for every two (2) permanent seats provided in the main auditorium; and
+B.  One (1) parking space for every thirty (30) square feet of gross floor area public assembly area.",permanent seats provided in the main auditorium * 2 + gross floor area public assembly area / 30
+"Furniture, home improvement, and appliance stores","A.  Uses up to fifteen thousand (15,000) square feet of gross floor area. One (1)space per five hundred (500) square feet gross floor area; or
+B.  Uses over fifteen thousand (15,000) square feet of gross floor area. One (1) space per five hundred (500) square feet for the first fifteen thousand (15,000) square feet of gross floor area, and one (1) space per eight hundred (800) square feet area over the first fifteen thousand (15,000) square feet of gross floor area","use over 15,000 thousand square feet of gross floor area ? 15000 / 500 + ( gross floor area - 15000 ) / 800 : gross floor area / 500"
+Galleries,One (1) space per five hundred (500) square feet of gross floor area.,gross floor area / 500
+Game centers,One (1) space per one hundred (100) square feet gross floor area.,gross floor area / 100
+Gas station,Three (3) spaces per service bay and one (1) space per 250 square feet of accessory retail sales gross floor area. Each service bay counts for one (1) of the required parking spaces.,service bay * 2 + accessory retail sales gross floor area / 250
+Golf course,"One (1) parking space for each two hundred
+(200) square feet of gross floor area in any main building plus one (1) space for every two (2) practice tees in the driving range, plus four (4) parking spaces for each green in the playing area.",gross floor area in main building / 200 + practive tees in the driving range / 2 + green in the play area * 4
+Grocery or supermarket,One (1) space per three hundred (300) square feet gross floor area.,gross floor area / 300
+"Health or fitness studio, and indoor recreational uses","A.  Building area less than, or equal to, 3,000 square feet of gross floor area: one space per 250 square feet of gross floor area.
+B.  Building area greater than 3,000 square feet of gross floor area, and less than 10,000 square feet of gross floor area: one space per 150 square feet of gross floor area.
+C.  Building areas equal to, or greater than, 10,000 square feet of gross floor area, and less than 20,000 square feet of gross floor area: one space per 200 square feet of gross floor area.
+D.  Building areas equal to, or greater than, 20,000 square feet of gross floor area: one space per 250 square feet of gross floor area.","Building area greater than 3,000 square feet of gross floor area and less than 20,000 square feet gross floor area ? Building area less than, or equal to 10,000 square feet gross floor area ?? gross floor area / 150 :: gross floor area / 200 : gross floor area / 250 "
+High schools,"One (1) parking space for each employee plus one (1) space for every six (6) students, based on projected maximum enrollment.",1 * employee + students (projected maximum enrollment) / 6
+Hospitals,One and one half (1.5) parking spaces for each one (1) bed.,1.5 * bed
+Internalized community storage,"One (1) parking space for each two thousand five hundred (2,500) square feet of gross floor area.",gross floor area / 2500
+Library,One (1) space per three hundred (300) square feet gross floor area.,gross floor aea / 300
+"Live entertainment (not including bars, restaurants, and performing arts theaters)","A.  With fixed seating. One (1) parking space for two and one-half (2.5) seats.
+B.  Without fixed seating. One (1) parking space for every sixty (60) square feet of gross floor area of an establishment that does not contain fixed seating.",fixed seating ? seats / 2.5 : gross floor area of an establishment that does not contain fixed seating / 6
+Manufactured home park,One and one-half parking spaces per manufactured home space.,1.5 * manufactured home
+Manufacturing and industrial uses,"One (1) parking space for each five hundred
+(500) square feet of gross floor area.",gross floor area / 500
+"Mixed-use commercial centers
+In mixed-use commercial centers with less than 20,000 square feet of gross floor area, land uses (with parking requirements of one space per 250 square feet or fewer spaces) shall occupy at least 60 percent of gross floor area.",One (1) space per three hundred (300) square feet of gross floor area.,gross floor area / 300
+Mixed-use developments,"A.  With at least 20% of gross floor area non- residential, one space per 325 square feet of gross floor area of nonresidential area; otherwise as required in accordance with this table; plus
+B.  Multiple-family residential uses shall be
+parked at the ratios of the dwellings, multiple-family in other districts requirements, herein.",At least 20% of gross floor area non- residential ? gross floor area of nonresidential area / 325 + efficiency unit * 1.25 + one-bedroom * 1.3 + two-bedrooms * 1.7 + three or more bedrooms * 1.9 + ( efficiency unit + one-bedroom + two-bedrooms + three or more bedrooms ) / 6 : gross floor area / 300 + efficiency unit * 1.25 + one-bedroom * 1.3 + two-bedrooms * 1.7 + three or more bedrooms * 1.9 + ( efficiency unit + one-bedroom + two-bedrooms + three or more bedrooms ) / 6
+"Office, all other",One (1) space per three hundred (300) square feet gross floor area.,gross floor area / 300
+"Offices (government, medical/dental and clinics)",One (1) space per two hundred fifty (250) square feet of gross floor area.,gross floor area / 250
+Offices (telemarketing bureaus and other contact centers),One (1) space per two hundred (200) square feet gross floor area.,gross floor area / 200
+Parks,Three (3) parking spaces for each acre of park area.,park area (acre) * 3
+Personal care services,One (1) space per two hundred fifty (250) square feet gross floor area.,gross floor area / 250
+"Plant nurseries, building materials yards, equipment rental or sales yards and similar uses",One (1) parking space for each three hundred (300) square feet gross site area of sales and display area.,gross site area of sale and display area / 300
+Pool hall,Two (2) spaces per pool table.,pool table * 2
+Postal station(s),One (1) parking space for each two hundred (200) square feet of gross floor area.,gross floor area / 200
+Radio/TV/studio,"One (1) space per five hundred (500) square feet gross floor area, plus one (1) space per company vehicle, as per Section 9.103.H., additional requirements for company vehicles.",gorss floor area / 500 + company vehicle * 1
+Ranches,One (1) space per every two (2) horse stalls.,horse stalls / 2
+Residential health care facilities,"A.  Specialized care facilities—0.7 parking space for each bed.
+B.  Minimal care facilities—1.25 parking spaces for each dwelling unit.","specialized care facilities
+bed * 0.7
+minimal care facilities
+dwelling unit * 1.25"
+Restaurants with live entertainment,"A.  When live entertainment limited to the hours that a full menu is available, and the area of live entertainment is less than fifteen
+(15) percent of the gross floor area, one (1) parking space per one hundred twenty (120) square feet of gross floor area; and
+B.  One (1) parking space for each three hundred fifty (350) gross square feet of outdoor public floor area, excluding the first three hundred fifty (350) gross square feet of outdoor patio area, unless the space is located next to and oriented toward a publicly owned walkway or street, in which case the first five hundred (500) gross square feet of outdoor patio area is excluded.
+C.  When live entertainment is not limited to the hours that a full menu is available, and/or the area of live entertainment is less than fifteen (15) percent of the gross floor area, one (1) parking space per sixty (60) square feet of gross floor area, plus patio requirements above.",Live entertainment limited to hours that full menu is available and the area of live entertainment is less then 15% of gross floor area ?  The out door patio space is next to and oriented towards a publickly owned walkway or street ?? gross floor area / 120 + ( gross outdoor patio - 500 ) / 350 :: gross floor area / 120 + ( gross outdoor patio - 350 ) / 350 : The out door patio space is next to and oriented towards a publickly owned walkway or street ?? gross floor area / 60 + ( gross outdoor patio - 500 ) / 350 :: gross floor area / 60 + ( gross outdoor patio - 350 ) / 350 
+Restaurants,"A.  One (1) parking space per one hundred twenty (120) square feet of gross floor area; and
+B.  One (1) parking space for each three hundred fifty (350) gross square feet of outdoor patio area, excluding the first three hundred fifty (350) gross square feet of outdoor patio area, unless the space is located next to and oriented toward a publicly owned walkway or street, in which case the first five hundred (500) square gross feet of outdoor patio area is excluded.",The outdoor patio space is next to and oriented toward a publicly owned walkway or street ? gross floor area / 120 + ( gross outdoor public floor area - 500 ) / 350 : gross floor area / 120 + ( gross outdoor public floor area - 350 ) / 350
+Retail,One (1) space per two hundred fifty (250) square feet of gross floor area.,gross floor area / 250
+"Retail, in a PCoC zoning district without arterial street frontage",One (1) space per three hundred (300) square feet gross floor area.,gross floor area / 300
+"Stables, commercial",Adequate parking for daily activities shall be provided as determined by the Zoning Administrator.,
+Swimming pool or natatorium,"One (1) space per one thousand (1,000) square feet gross floor area.",gross floor area / 1000
+Tennis clubs,"One (1) parking space per each two hundred
+(200) square feet of gross floor area, excluding court area, plus three (3) parking spaces per each court. The property owner shall provide additional parking spaces as necessary for tournaments, shows or special events.",gross floor area (excluding court area) / 200 + 3 * number of courts. 
+"Theaters, cinemas, auditoriums, gymnasiums and similar places of public assembly in PNC, PCC, PCP, PRC, or PUD zoning districts",One (1) space per ten (10) seats.,seats / 10
+"Theaters, cinemas, auditoriums, gymnasiums and similar places of public assembly in other districts",One (1) parking space per four (4) seats.,seats / 4
+Trailhead - gateway,"Five hundred (500) to six hundred (600) spaces, including those for tour buses and horse trailers.","RANGE [500, 600]"
+Trailhead - local,None required.,None required
+Trailhead - major community,"Two hundred (200) to three hundred (300) spaces, including those for horse trailers.","RANGE [200, 300]"
+Trailhead - minor community,Fifty (50) to one hundred (100) spaces.,"RANGE [50, 100]"
+Transportation facilities,"Required parking shall be determined by the Zoning Administrator per Section 9.103.E., Calculating required parking for transportation facilities.",Zoning Administrator.
+Transportation uses,Parking spaces required shall be determined by the Zoning Administrator.,Zoning Administrator.
+Travel accommodations,One (1.0) parking spaces for each one (1) guest room or dwelling unit.,1 * guest room or dwelling unit
+"Travel accommodations with conference and meeting facilities, or similar facilities, and/or additional commercial uses within the same development project","The travel accommodation requirements above.
+Plus:
+A.  One (1) parking space for every five (5) seats, if seats are fixed, and/or
+B.  One (1) parking space for fifty (50) square feet of gross floor area of conference/meeting area, and/or
+C.  Bar, cocktail lounge, tavern, after hours, restaurants, and live entertainment uses shall provide parking in accordance with parking requirements herein this table.
+D.  All other commercial uses. One (1) parking space for every four hundred (400) square feet of gross floor area.
+Exception: No additional parking shall be required for the first 2,000 square feet of associated commercial uses or meeting facilities.",NOT SUPPORT
+"Vehicle leasing, rental, or sales (parking plans submitted for vehicle sales shall illustrate the parking spaces allocated for each of A, B, and C.)","A.  One employee parking space per 200 square feet of gross floor area,
+B.  One employee parking space per 20 outdoor vehicular display spaces, and
+C.  One patron parking space per 20 outdoor vehicular display spaces.",gross floor area / 200 + outdoor vehicular display spaces / 20 + outdoor vehicular display spaces / 20
+Veterinary services,One (1) space per three hundred (300) square feet gross floor area.,gross floor area / 300
+"Warehouses, mini","One (1) space per three hundred (300) square feet of gross floor area of administrative office space, plus one (1) space per each fifty (50) storage spaces.",gross floor area of administrative office space / 300 + storage spaces / 50 
+"Warehousing, wholesaling establishments, or separate storage buildings.",One (1) parking space for each eight hundred (800) square feet of gross floor area.,gross floor area / 800
+Western theme park,"Total of all spaces required for the various uses of the theme park, may apply for a reduction in required parking per Section 9.104, Programs and incentives to reduce parking requirements.",Type 1 area OR Type 2 area ? gross floor are / 500 : gross floor area / 300

@@ -1,0 +1,11 @@
+.chatbot-window {
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    width: 400px;
+    height: 500px;
+    background-color: var(--lighter-color);
+    box-shadow: 0px 0px 10px 5px var(--special-color);
+    border-radius: 12px;
+    z-index: 10;
+}

@@ -1,0 +1,22 @@
+.select-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.option-container {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.option {
+    padding: 0;
+    cursor: pointer;
+}
+.option:hover {
+    font-weight: bold;
+}
+.option-disabled {
+    color: #ccc;
+}

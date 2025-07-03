@@ -1,0 +1,10 @@
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.auth-module {
+    height: 320px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,28 @@
+.sidebar-pane, .mainwin-pane {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-y: auto;
+    display: flex;
+}
+
+.sidebar-pane {
+    flex-direction: column;
+    /* background-color: var(--lighter-color); */
+    height: 100%;
+}
+
+.sidebar-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.3em 0.3em;
+    cursor: pointer;
+    border-radius: 0;
+    background-color: transparent;
+    color: var(--special-color);
+    z-index: 10;
+}
+.sidebar-button:focus {
+    outline: none;
+}

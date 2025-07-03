@@ -1,0 +1,46 @@
+﻿Landuse,Requirement,Formula
+"Bars, cocktail lounges, taverns, afterhours or micro-brewery/distillery with live entertainment","A.  One (1) space per eighty (80) square feet of gross floor area; and
+B.  One (1) space per two hundred (200) gross square feet of outdoor patio area, excluding the first two hundred (200) gross square feet.",gross floor area / 80 + ( gross outdoor patio area - 200 ) / 200
+"Bars, cocktail lounges, taverns, afterhours or micro-brewery/distillery","A.  One (1) space per one-hundred twenty (120) square feet of gross floor area; and
+B.  One (1) space per two hundred (200) gross square feet of outdoor patio area, excluding the first two hundred (200) gross square feet.",gross floor area / 120 + ( gross outdoor patio area - 200 ) / 200
+"Dwellings, multi-family","For developments with 20 units or less:
+A.  One parking space per dwelling unit for units with one bedroom or less.
+B.  Two parking spaces per dwelling unit, for units with more than one bedroom.
+For developments with more than 20 units:
+Parking spaces per dwelling unit at the rate of:
+efficiency units 1.25
+one-bedroom 1.3
+two-bedrooms 1.7
+three (3) or more bedrooms 1.9
+Guest Parking:
+1 space per every 6 units. Guest spaces shall be located so they are easily accessed by guests, as determined by the Development Review Board.",20 units or less ? 1 * ( efficiency unit + one-bedroom ) + 2 * ( two-bedrooms + three or more bedrooms ) + ( dwelling unit with one bed or less + dwelling unit with more than one bedroom ) / 6 : 1.25 * efficiency unit + 1.3 * one-bedroom + 1.7 * two-bedrooms + 1.9 * three or more bedrooms + ( efficiency unit + one-bedroom + two-bedrooms + three or more bedrooms ) / 6
+Financial intuitions,"A.  In a Type 1 area, one (1) space per five hundred (500) square feet of gross floor area; or
+B.  In a Type 2 area, all other lot widths, one (1) space per three hundred (300) square feet of gross floor area.",Type 1 area OR Type 2 area ? Gross floor are / 500 : gross floor area / 300
+"Fitness studio (no larger than 3,000 gross square feet)","A.  One (1) space per three hundred (300) square feet of gross floor area.
+B.  A fitness studio larger than 3,000 gross square feet shall comply with Table 9.103.a.",gross floor area / 300
+Galleries,One (1) space per three hundred (500) square feet of gross floor area.,gross floor area / 500
+"Live entertainment (not including bars, restaurants, and performing arts theaters)","A.  With fixed seating. One (1) parking space for two and one-half (2.5) seats.
+B.  Without fixed seating. One (1) parking space for every eighty (80) square feet of gross floor area of an establishment that does not contain fixed seating.",fixed seating ? fixed seats / 2.5 : gross floow area of an establishment that does not contain fixed seating / 80
+Medical and diagnostic laboratories,One (1) space per three hundred (300) square feet of gross floor area.,gross floor area / 300
+"Mixed-use commercial centers
+In mixed-use commercial centers with less than 20,000 square feet of gross floor area, land uses (with parking requirements of one space per 300 square feet or fewer spaces) shall occupy at least 60 percent of gross floor area.",One (1) space per three hundred fifty (350) square feet of gross floor area.,gross floor area / 350
+Mixed-use developments,"A.  With at least 20% of gross floor area non- residential, one space per 350 square feet of gross floor area of nonresidential area; otherwise as required in accordance with this table; plus
+B.  Parking spaces required for multiple-
+family dwellings as shown in this table, except as provided in Section 9.104.H.3.d.",At least 20% of gross floor area non -residential ? 20 units or less ?? gross floor area of nonresidential area / 350 + 1 * ( efficiency unit + one-bedroom ) + 2 * ( two-bedrooms + three or more bedrooms ) + ( dwelling unit with one bed or less + dwelling unit with more than one bedroom ) / 6 :: gross floor area of nonresidential area / 350 + 1.25 * efficiency unit + 1.3 * one-bedroom + 1.7 * two-bedrooms + 1.9 * three or more bedrooms + ( efficiency unit + one-bedroom + two-bedrooms + three or more bedrooms ) / 6 : 20 units or less ?? gross floor area / 350 + 1 * ( efficiency unit + one-bedroom ) + 2 * ( two-bedrooms + three or more bedrooms ) + ( dwelling unit with one bed or less + dwelling unit with more than one bedroom ) / 6 :: gross floor area / 350 + 1.25 * efficiency unit + 1.3 * one-bedroom + 1.7 * two-bedrooms + 1.9 * three or more bedrooms + ( efficiency unit + one-bedroom + two-bedrooms + three or more bedrooms ) / 6
+"Office, including government and medical/dental oices and clinics","A.  In a Type 1 area, one (1) space per five hundred (500) square feet of gross floor area; or
+B.  In a Type 2 area, all other lot widths, one
+(1) space per three hundred (300) square feet of gross floor area.",Type 1 area OR Type 2 area ? Gross floor are / 500 : gross floor area / 300
+Offices (telemarketing bureaus and other contact centers),One (1) space per two hundred (200) square feet gross floor area.,gross floor area / 200
+Performing arts theaters,One (1) parking space per ten (10) seats.,seats / 10
+"Restaurants that serve breakfast and/or lunch only, or the primary business is desserts, bakeries, and/or coffee/tea or non- alcoholic beverage","A.  One (1) parking space for each four hundred (400) square feet of gross floor area; and
+B.  One (1) space for each three hundred fifty (350) gross square feet of outdoor public floor area. Excluding the first three hundred fifty (350) gross square feet of outdoor public floor area, unless the space is located next to and oriented toward a publicly owned walkway or street, in which case the first five hundred (500) gross square feet of outdoor public floor area is excluded.",The outdoor patio space is next to and oriented toward a publicly owned walkway or street ? gross floor area / 400 + ( gross outdoor public floor area - 500 ) / 350 : gross floor area / 400 + ( gross outdoor public floor area - 350 ) / 350
+"Restaurants, including restaurants with a micro-brewery/distillery as an accessory use.","A.  One (1) parking space per three hundred (300) square feet of gross floor area; and
+B.  One (1) parking space for each three hundred fifty (350) gross square feet of outdoor patio area. Excluding the first three hundred fifty (350) gross square feet of outdoor patio area, unless the space is located next to and oriented toward a publicly owned walkway or street, in which case the first five hundred (500) gross square feet of outdoor public floor area is excluded.",The outdoor patio space is next to and oriented toward a publicly owned walkway or street ? gross floor area / 300 + ( gross outdoor public floor area - 500 ) / 350 : gross floor area / 300 + ( gross outdoor public floor area - 350 ) / 350
+"Restaurants, including restaurants with a micro-brewery/distillery as an accessory use, and with live entertainment","A.  When live entertainment limited to the hours that a full menu is available, and the area of live entertainment is less than fifteen (15) percent of the gross floor area, one (1) parking space per three hundred (300) square feet of gross floor area; and
+B.  One (1) parking space for each three hundred fifty (350) gross square feet of outdoor public floor area. Excluding the first three hundred fifty (350) gross square feet of outdoor patio, unless the space is located next to and oriented toward a publicly owned walkway or street, in which case the first five hundred (500) gross square feet of outdoor patio area is excluded.
+C.  When live entertainment is not limited to the hours that a full menu is available, and/or the area of live entertainment is greater than fifteen (15) percent of the gross floor area, one (1) parking space per one hundred twenty (120) square feet of gross floor area, plus patio requirements above at all times.",Live entertainment limited to hours that a full menu is available and the area of live entertainment is less than 15% of gross floor area ? The out door patio space is next to and oriented towards a publicly owned walkway or street ?? gross floor area / 300 + ( gross outdoor patio - 500 ) / 350 :: gross floor area / 300 + ( gross outdoor patio - 350 ) / 350 : The out door patio space is next to and oriented towards a publicly owned walkway or street ?? gross floor area / 120 + ( gross outdoor patio - 500 ) / 350 :: gross floor area / 120 + ( gross outdoor patio - 350 ) / 350
+"Retail, personal care services, dry cleaners, and tattoo parlors","A.  In a Type 1 area, one (1) space per five hundred (500) square feet of gross floor area; or
+B.  In a Type 2 area, all other lot widths, one (1) space per three hundred (300) square feet of gross floor area.",Type 1 area OR Type 2 area ? Gross floor are / 500 : gross floor area / 300
+Work/live,"A.  The required parking shall be based on the area of commercial uses, per Table 9.103.B and when applicable, Table 9.103.A.
+B.  In addition to the parking requirement for the commercial area, parking shall be provide in accordance with the dwellings, multi-family and co-housing parking requirement for developments containing more than one (1) dwelling unit, excluding the first unit (except as provided in Section 9.104.H.3.d).",NOT SUPPORT
+All other uses,As specified Table 9.103.A.,

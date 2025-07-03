@@ -1,0 +1,29 @@
+.small-img {
+    width: 15px;
+    height: 15px;
+}
+
+/* for select used in config setting, all need important */
+.config-select__control {
+    padding: 0;
+    min-height: 0px !important;
+}
+.config-select__value-container {
+    padding: 1px 1px !important;
+}
+.config-select__value-container--has-value {
+    padding: 1px 1px !important;
+}
+.config-select__option {
+    background-color: #ccc;
+}
+.config-select__input-container {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.config-select__indicator {
+    padding: 0 !important;
+}
+.config-select__single-value {
+    margin: 0 !important;
+}

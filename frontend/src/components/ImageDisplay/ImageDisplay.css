@@ -1,0 +1,24 @@
+.image-display-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: auto;
+    align-items: center;
+    position: relative;
+}
+
+.image-display-tool-div {
+    position: absolute;
+    margin-top: 0;
+    /* height: 40px; */
+    z-index: 10;
+    border-radius: 10px;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.image-display-window {
+    height: 100%;
+}

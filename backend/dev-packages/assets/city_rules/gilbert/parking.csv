@@ -1,0 +1,126 @@
+﻿Use Classification,Requirement,Formula
+Agritainment,Determined by Zoning Administrator,Zoning Administrator
+Ambulance Services,1 space per 250 sf.,gross floor area / 250
+Animal Services: Animal Grooming ,1 space per 250 sf.,gross floor area / 250
+Animal Services: Animal Shelter,1 space per 250 sf.,gross floor area / 250
+Animal Services: Feed and Tack Sales,1 space per 350 sf.,gross floor area / 350
+Animal Services: Kennel,1 space per 250 sf.,gross floor area / 250
+Animal Services: Large Animal Hospitals,1 space per 300 sf.,gross floor area / 300
+Animal Services: Small Animal Clinics,1 space per 250 sf.,gross floor area / 250
+Automated Teller Machine,None required,None required
+"Automated Teller Machine, Remote",2 spaces per machine,machine * 2
+Banks and Other Financial Institutions,1 space per 200 sf.,gross floor area / 200
+Banquet Facility,Determined by Zoning Administrator,Zoning Administrator
+Bed and Breakfast Homes,2 enclosed spaces; plus 1 space per guest room,2 + guest room * 1
+Building Maintenance Services,1 space per 300 sf..,gross floor area / 300
+"Building Material and Home Improvement Sales and Service, Retail",1 space per 250 sf.,gross floor area / 250
+"Building Material and Home Improvement Sales and Service, Wholesale",1 space per 800 sf.,gross floor area / 800
+Business Services,1 space per 250 sf.,gross floor area / 250
+Call Center,1 space per 150 sf.,gross floor area / 150
+Cemetery,None required,None required
+"Cemetery, Pet",None required,None required
+"Civic, Social and Fraternal Organizations","1 space per 200 sf. or 1 space per 4 fixed seats, whichever is greater",MAX gross floor area / 200 : fixed seats / 4
+"Colleges or Universities, Public or Private",1 space per 200 sf. of classroom and office area,class room and office aera / 200
+Congregate Living Facility,0.5 spaces per unit,unit * 0.5
+Contractor’s Yard,1 space per 250 sf. of office area,office area / 250
+Convention Center,"1 space per 200 sf. or 1 space per 4 fixed seats, whichever is greater",MAX gross floor area / 200 : fixed seats / 4
+Crematorium,1 space per 300 sf.,gross floor area / 300
+"Crop and Animal Raising, Commercial",None required,None required
+"Crop Raising, Non-Commercial",None required,None required
+Cultural Institutions,"1 space per 200 sf. or 1 space per 4 fixed seats, whichever is greater",MAX gross floor area / 200 : fixed seats / 4
+Day Care Centers,1 space per 300 sf.,gross floor area / 300
+Day Care Homes,No additional spaces required,No additional spaces required
+"Day Care , Residential",No additional spaces required,No additional spaces required
+Dry Cleaning and Laundry Outlet,1 space per 250 sf.,gross floor area / 250
+Dry Cleaning and Laundry Central Plant,1 space per 300 sf.,gross floor area / 300
+Eating and Drinking Establishments: Bars/Night Clubs/Lounges/Dance Halls,1 space per 100 sf.; plus 1 space per 400 sf. of outdoor dining area,gross floor area / 100 + outdoor dining aera / 400
+"Eating and Drinking Establishments: Restaurants, Beverage Service",1 space per 75 sf.; plus 1 space per 400 sf. of outdoor dining area,gross floor area / 75 + outdoor dining area / 400
+"Eating and Drinking Establishments: Restaurants, Full Service",1 space per 100 sf.; plus 1 space per 400 sf. of outdoor dining area,gross floor area / 100 + outdoor dining aera / 400
+"Eating and Drinking Establishments: Restaurants, Limited Service",1 space per 100 sf.; plus 1 space per 400 sf. of outdoor dining area,gross floor area / 100 + outdoor dining area / 400
+"Entertainment and Recreation, Indoor",1 space per 150 sf. of indoor area,indoor area / 150
+"Entertainment and Recreation, Outdoor","2 spaces per court;
+45 spaces per soccer field;
+35 spaces per baseball or softball field;
+1 space per batting cage;
+2 spaces per miniature golf hole",court * 2 + soccer field * 45 + baseball or softball field * 35 + batting cage * 1 + miniature golf hold * 2
+Farm Stand,1 space per 50 sf. of sales area,sales area / 50
+Farmers’ Market,1 space per 50 sf. of sales area,sales area / 50
+Food Preparation: Large-Scale,1 space per 300 sf.,gross floor area / 300
+Food Preparation: Small Scale,1 space per 250 sf.,gross floor area / 250
+Funeral and Undertaking Services,1 space per 100 sf. of assembly area; plus 1 space per 200 sf. of office area,assembly area / 100 + office area / 200
+Garden Supply Store and Plant Nurseries,1 space per 400 sf. of sales and display area,sales and display area / 400
+Golf Course,5 spaces per hole,hole * 5
+Government Offices and Facilities,1 space per 200 sf.,gross floor area / 200
+Group Homes for The Handicapped,No additional spaces required,No additional spaces required
+Haunted House,1 space per 100 sf.,gross floor area / 100
+Health Care Facilities: Hospital,1.5 spaces per bed,bed * 1.5
+Health Care Facilities: Urgent Care Facility,1 space per 100 sf.,gross floor area / 100
+Health Care Facilities: Medical Offices and Clinics,1 space per 150 sf.,gross floor area / 150
+Home Occupation,No additional parking required,No additional spaces required
+Homeowners Association Facilities,1 space per 250 sf. building area,buidling area / 250
+Hotels and Commercial Lodging,"1.1 spaces per guest room, suite or unit; public eating and drinking establishments calculated separately","guest room, suite or unit * 1.1 "
+Instructional Services Specialized,1 space per 200 sf. of instructional area,instructional aea / 200
+"Laboratories, Commercial",1 space per 150 sf.,gross floor area / 150
+Laundry Services,1 space per 250 sf.,gross floor area / 250
+Loft Unit,1.5 spaces per unit,unit * 1.5
+Maintenance and Repair Services,1 space per 300 sf.,gross floor area / 300
+Manufacturing and Assembly:Artisan,1 space per 500 sf.,gross floor area / 500
+Manufacturing and Assembly:Light,1 space per 500 sf.,gross floor area / 500
+Manufacturing and Assembly:General,1 space per 500 sf.,gross floor area / 500
+Manufacturing and Assembly:Heavy,"1 space per 1,000 sf.",gross floor area / 1000
+Mining and Quarrying,1 space per 250 sf. of office area,office area / 250
+Nursing Home ,0.5 spaces per bed,bed * 1.5
+"Offices, General ",1 space per 250 sf.,gross floor area / 250
+Pawn Shop ,1 space per 250 sf.,gross floor area / 250
+Personal Services ,1 space per 200 sf.,gross floor area / 200
+Public Safety Facilities ,1 space per 250 sf.,gross floor area / 250
+Recreational Vehicle Park ,"1 space per 100 sf. of office area, plus 2 spaces per permanent residential unit",office area / 100 + permanent residential unit * 2
+Place of Worship ,"1 space per 100 sf. of assembly area, plus 1 space per 200 sf. of other indoor area",assembly area / 100 + other indoor area / 200
+Research and Development ,1 space per 200 sf.,gross floor area / 200
+"Residential, Permanent: Single Family (on-street parking permitted)","2 enclosed spaces per unit. 
+Residential uses in the Heritage District Overlay Zoning District may provide 2 unenclosed spaces on site",unit * 2 
+"Residential, Permanent: Single Family (no on-street parking)",2 enclosed spaces per unit; plus .25 guest spaces per unit; plus 6 guest spaces at the primary active open space and 3 guest spaces at each secondary active open space. Residential uses in the Heritage District Overlay Zoning District may provide 2 unenclosed spaces on site.,unit * 2 + unit * 0.25 + 6 + 3
+"Residential, Permanent: Single Family, Lot Width is less than 55’ or Single Family, Apron Access","2 enclosed spaces per unit; plus 0.5 guest parking spaces per unit; plus 0.5 guest parking spaces per unit that does not provide a minimum of 80 square feet of additional enclosed parking area; plus 6 guest spaces at the primary active open space and 3 guest spaces at each secondary active open space. All required guest parking spaces shall be striped and equally distributed throughout the development, as approved on the parking plan; required dwelling unit guest parking spaces shall be located within 250 feet of the dwelling unit’s front lot line, as measured by the pedestrian route. Parking plan design review approval required.
+These standards do not apply to residential uses in the Heritage District Overlay Zoning District (see above).",unit * 2 + unit * 0.5 + units that does not provide a minimum of 80 square feet of additional enclosed parking area * 0.5 + 6 + 3
+"Residential, Permanent: Multi-Family","1 space per 1 bedroom/studio unit.
+2 spaces per 2 or more bedroom units; all plus .25 guest spaces per unit.
+1 space per unit shall be covered, of which 25% shall be enclosed
+Residential uses in the Heritage District Overlay Zoning District may provide uncovered and unenclosed spaces on site.",one bedroom/studio unit * 1 + two or more bedroom unit * 2 + two or more bedroom unit * 0.25
+"Residential, Permanent: Secondary Dwelling",1 additional space,1
+"Retail Sales, Convenience",1 space per 100 sf.,gross floor area / 100
+"Retail Sales, Furniture",1 space per 500 sf.,gross floor area / 500
+"Retail Sales, General",1 space per 250 sf.,gross floor area / 250
+Sexually-Oriented Business,1 space per 250 sf.,gross floor area / 250
+"Schools, Public or Private","Elementary: 2 spaces per classroom
+Junior High: 2 spaces per classroom
+High: 7 spaces per classroom",Elementary or Junior High OR High ? classroom * 2 : classroom * 7
+Special Assistance Shelters,1 space per 500 sf.,gross floor area / 500
+"Stables, Commercial",1 space per 2 horse stalls,horse stalls / 2
+"Storage, Personal Property: Indoor",8 spaces plus 2 covered spaces per dwelling unit,8 + dwelling unit * 2
+"Storage, Personal Property: Outdoor",2 covered spaces per dwelling unit,dwelling unit * 2
+"Swap Meet and Auction, Indoor",1 space per 200 sf.,gross floor area / 200
+"Swap Meet and Auction, Outdoor",1 space per 200 sf. of sales area,sales area / 200
+Teen Nightclub,1 space per 200 sf.,gross floor area / 200
+Transportation Passenger Terminals,Determined by Zoning Administrator,Zoning Administrator
+Utilities: Facilities,1 space per 250 sf. of office area,office area / 250
+Utilities: Service Yards,1 space per 250 sf. of office area,office area / 250
+Utilities: Well Site,No additional spaces required,No additional spaces required
+"Vehicle Equipment Sales, Leasing and Services: Car Wash, Automated or Self-Service",2 spaces minimum,2
+"Vehicle Equipment Sales, Leasing and Services: Car Wash, Full Service",10 spaces minimum,10
+Commercial Vehicle/Equipment Sales and Rental; New and Used,1 space per 250 sf. of indoor area,indoor area / 250
+"Vehicle Equipment Sales, Leasing and Services: Fueling Facility","1 space per 100 sf. of convenience retail sales, plus 2 spaces per service bay",convenience retails sales gross floor area / 100 + service bay * 2
+"Vehicle Equipment Sales, Leasing and Services: Fueling Facility, Alternative",1 space per fueling station,fueling station * 1
+"Vehicle Equipment Sales, Leasing and Services(continued): Fueling Facility, Fleet", None required,None required
+"Vehicle Equipment Sales, Leasing and Services(continued): Motor Vehicle Sales and Leasing, New and Used",1 space per 250 sf. of interior display space; plus 1 space per 3 service bays; plus 1 space per 25 vehicles displayed outdoors,interior display space / 250 + service bays / 3 + vehicles displayed outdoors / 25
+"Vehicle Equipment Sales, Leasing and Services(continued): Non-Commercial Vehicle Rental",1 space per 100 sf.,gross floor area / 100
+"Vehicle Equipment Sales, Leasing and Services(continued): Vehicle Services, Light and Heavy",3 spaces per service bay plus 1 space per 100 sf. of office and sales area,service bay / 3 + office and sales area / 100
+Warehousing: Freight/Truck Terminal and Warehouse,1 space per 1000 sf. plus 1 space per 250 sf. office area,gross floor area / 1000 + office area / 250
+Warehousing: Petroleum and Gas Storage,1 space per 250 sf. of office area,office area / 250
+Warehousing: Salvage or Junkyards,1 space per 200 sf. of office area,office area / 200
+Waste Management: Hazardous Waste Collection and Transfer Facility,1 space per 250 sf. of office area,office area / 250
+Waste Management: Hazardous Waste Disposal Facility,1 space per 250 sf. of office area,office area / 250
+Waste Management: Non-Hazardous Waste Collection Transfer Facility,1 space per 250 sf. of office area,office area / 250
+Waste Management: Non-Hazardous Waste Disposal Facility,1 space per 250 sf. of office area,office area / 250
+Waste Management: Non-Hazardous Material Recycling Collection Facility - Large Scale,1 space per 250 sf. of office area,office area / 250
+Waste Management: Non-Hazardous Material Recycling Collection Facility - Small Scale,None required,None required
+Wireless Communication Facilities,None required,None required

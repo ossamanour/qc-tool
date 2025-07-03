@@ -1,0 +1,72 @@
+.auth-container {
+    position: relative;
+    text-align: center;
+    width: 50%;
+    box-shadow: 1px 1px 2px 2px var(--darker-color);
+    border-radius: 5px;
+}
+
+.form-container {
+    position: absolute;
+    right: 0;
+    width: 75%;
+    height: 100%;
+    background-color: var(--lighter-color);
+    flex-direction: column;
+    color: var(--darkfont-color);
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.side-container {
+    position: absolute;
+    right: 65%;
+    width: 35%;
+    height: 100%;
+    background-color: var(--darker-color);
+    /* opacity: 0.6; */
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.auth-button {
+    padding: 8px;
+    border: 2px solid white;
+    border-radius: 18px;
+    background-color: var(--special-color);
+    opacity: 1;
+    color: white;
+    font-weight: bold;
+}
+.auth-button:focus {
+    background-color: var(--darker-special-color);
+}
+.auth-button:hover {
+    background-color: var(--darker-special-color);
+}
+
+.form-css {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.form-css > label {
+    width: 100%;
+    text-align: left;
+}
+
+.error-message {
+    font-size: small;
+    padding: 0;
+    margin: 0;
+    color: red;
+    font-weight: normal;
+}

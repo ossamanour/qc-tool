@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.task-row {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-item {
+    cursor: pointer;
+}
+
+.task-image {
+    height: 250px;
+    margin: 0;
+    padding: 0;
+}
+
+.task-name {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}

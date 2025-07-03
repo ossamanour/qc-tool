@@ -1,0 +1,203 @@
+.main-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    font-size: small;
+    text-align: left;
+    flex-direction: row !important;
+}
+
+.left-container {
+    padding-top: 10px;
+    width: 30%;
+    overflow: auto;
+    border-right: 1px solid var(--special-color);
+}
+
+.right-container {
+    flex: 1;
+    overflow: auto;
+    display: flex;
+    /* flex-direction: column; */
+    /* position: relative; */
+}
+
+/* For info panel */
+.info-container {
+    width: 100%; 
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.info-sub-form {
+    margin-left: 5px;
+    margin-right: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.info-input {
+    width: 90%;
+    min-width: 0 !important;
+    resize: vertical;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: small;
+    border-width: 1px;
+    border-color: var(--darker-color);
+    border-radius: 5px;
+} 
+.info-input:hover {
+    border-width: 2px;
+    border-color: var(--darker-color);
+}
+.info-input:focus {
+    outline: none;
+    border-width: 2px;
+    border-color: var(--darker-color);
+}
+
+.info-select {
+    font-size: small;
+    border-width: 1px;
+    border-color: var(--darker-color);
+    border-radius: 5px;
+}
+.info-select:hover {
+    border-width: 2px;
+    border-color: var(--darker-color);
+}
+.info-select:focus {
+    outline: none;
+    border-width: 2px;
+    border-color: var(--darker-color);
+}
+
+.horizontal-line {
+    height: 1px;
+    width: 100%;
+    background-color: var(--special-color);
+    opacity: 50%;
+    border: none;
+}
+
+.tool-field {
+    padding: 0;
+    margin: 5px;
+    border-width: 1px;
+    border-color: var(--darker-color);
+    border-radius: 5px;
+    font-size: small;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.tool-field:hover {
+    border-width: 2px;
+    border-color: var(--darker-color);
+}
+
+.tool-checkbox {
+    cursor: pointer;
+}
+.tool-checkbox:hover {
+    font-weight: bold;
+}
+
+
+/* For chat panel */
+.chat-container {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.conversation-user {
+    text-align: right;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 5px;
+}
+
+.conversation-chatbot {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.conversation-error {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    color: red;
+    font-weight: bold;
+}
+
+.conversation-container {
+    width: 100%;
+    height: 90%;
+    overflow-y: auto;    
+}
+
+.profile-image {
+    width: 30px;
+    height: 30px;
+    /* box-shadow: 0px 0px 10px 5px #e7bb90; */
+    border-radius: 50%;
+    background-position: center;
+}
+
+.content {
+    max-width: 60%;
+    display: block;
+    border: 1px solid #ccc; 
+    word-wrap: break-word;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: var(--lighter-color);
+    border: 0;
+}
+
+.submit-form {
+    /* position: absolute; */
+    width: 90%;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+
+.input-box {
+    border-color: var(--primary-color);
+    border-radius: 5px;
+    width: 100%;
+}
+.input-box:hover {
+    border-color: var(--darker-color);
+    border-width: 2px;
+    border-radius: 5px;
+}
+.input-box:focus {
+    outline: none;
+    border-color: var(--darker-color);
+    border-radius: 2px;
+    border-radius: 5px;
+}
+
+.submit-button {
+    width: 60px;
+    margin-right: 0px;
+    background-color: var(--primary-color);
+}
+.submit-button:hover {
+    background-color: var(--darker-color);
+}
+

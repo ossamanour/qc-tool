@@ -1,0 +1,344 @@
+{
+    "SF-43": {
+        "building height": {
+            "ALL": "35"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "30"
+        }
+    },
+    "SF-35": {
+        "building height": {
+            "ALL": "35"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "30"
+        }
+    },
+    "SF-15": {
+        "building height": {
+            "ALL": "30"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "SF-10": {
+        "building height": {
+            "ALL": "30"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "SF-8": {
+        "building height": {
+            "ALL": "30"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "SF-7": {
+        "building height": {
+            "ALL": "30"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "SF-6": {
+        "building height": {
+            "ALL": "30"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "SF-D": {
+        "building height": {
+            "ALL": "36"
+        },
+        "story": {
+            "ALL": "3"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "SF-A": {
+        "building height": {
+            "ALL": "36"
+        },
+        "story": {
+            "ALL": "3"
+        },
+        "accessory structures (no living quarters)": {
+            "ALL": "20"
+        }
+    },
+    "MF/L": {
+        "building height": {
+            "ALL": "35"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "35"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "MF/M": {
+        "building height": {
+            "ALL": "40"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "40"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "MF/H": {
+        "building height": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "NC": {
+        "building height": {
+            "ALL": "25"
+        },
+        "story": {
+            "ALL": "1"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "25"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "CC": {
+        "building height": {
+            "ALL": "35"
+        },
+        "story": {
+            "ALL": "1"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "35"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "SC": {
+        "building height": {
+            "ALL": "35"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "35"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "GC": {
+        "building height (total)": {
+            "ALL": "45"
+        },
+        "height of accessory structures (no living quarters) within the building envelope": {
+            "ALL": "45"
+        },
+        "height of accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "RC": {
+        "building height": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "HVC": {
+        "building height": {
+            "ALL": "55"
+        },
+        "story": {
+            "ALL": "4"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "NO": {
+        "building height": {
+            "ALL": "25"
+        },
+        "story": {
+            "ALL": "1"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "25"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "GO": {
+        "building height": {
+            "ALL": "55"
+        },
+        "story": {
+            "ALL": "3"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "BP": {
+        "building height": {
+            "ALL": "35"
+        },
+        "story": {
+            "ALL": "2"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "35"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "LI": {
+        "building height": {
+            "ALL": "55"
+        },
+        "story": {
+            "ALL": "3"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "GI": {
+        "building height": {
+            "ALL": "None"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "None"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "PF/I": {
+        "building height": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "55"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "20"
+        }
+    },
+    "GVC": {
+        "building height": {
+            "building within 75 feet of a single family zoning district": "60",
+            "building not within 75 feet of a single family zoning district": "90"
+        },
+        "story": {
+            "building within 75 feet of a single family zoning district": "4",
+            "building not within 75 feet of a single family zoning district": "6"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "90"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "GBC": {
+        "building height": {
+            "ALL": "90"
+        },
+        "story": {
+            "ALL": "6"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "90"
+        },
+        "accessory structures (no living quarters) outside of the building envelope": {
+            "ALL": "15"
+        }
+    },
+    "MU/S": {
+        "building height": {
+            "ALL": "45"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "45"
+        }
+    },
+    "MU/L": {
+        "building height": {
+            "ALL": "65"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "65"
+        }
+    },
+    "MU/R": {
+        "building height": {
+            "ALL": "90"
+        },
+        "accessory structures (no living quarters) within the building envelope": {
+            "ALL": "90"
+        }
+    }
+}

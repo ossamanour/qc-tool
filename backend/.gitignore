@@ -1,0 +1,7 @@
+# ignore flask session
+flask_session/
+
+# ignore local server folder
+server/
+# except the logo image
+!server/AIAEC-logo.png

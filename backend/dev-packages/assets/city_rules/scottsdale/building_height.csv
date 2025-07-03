@@ -1,0 +1,169 @@
+﻿Zone,Requirement,Source,Formular,Request Input,Formula
+(R1-190),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.012.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-130),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.024.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-70),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.034.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-43),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.104.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-35),"No building shall exceed thirty (30) feet in height, except as provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.204.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-18),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.304.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-10),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.404.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-7),"No building shall exceed thirty (30) feet in height, except as otherwise provided in Article VII.",APPENDIX B -> ARTICLE V. -> Sec.5.504.,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R1-5),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.554,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R-2),"No building shall exceed thirty (30) feet in height, except as otherwise provided in article VII.",APPENDIX B -> ARTICLE V. -> Sec. 5.604,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(R-3),"1. No building shall exceed thirty (30) feet in height except as otherwise provided in article VII.
+2. If the R-3 development abuts a single-family residential district or an alley abutting a single-family residential district, the building height may be limited to one (1) story as determined by Development Review Board approval.",APPENDIX B -> ARTICLE V. -> Sec. 5.704,"30 (VII)
+abuts a single-family residential district or an alley abutting a single-family residential district ?
+=> YES: 1 story",,
+(R-4),"1. The building height shall be as determined by Development Review Board except that no building shall exceed thirty (30) feet in height and except as otherwise provided in article VII.
+2. If the R-4 development abuts a single-family residential district or an alley abutting a single-family residential district, the City Council may limit the building height to one (1) story as determined by Development Review Board.",APPENDIX B. -> ARTICLE V. -> Sec. 5.804,"30 (VII)
+abuts a singcle-family residenrtacl disrrticr or an alley abutting a singcle-family residenrtacl disrrticr ?
+=> YES: 1 story",,
+(R-4R),1. No building shall exceed thirty-five (35) feet in height.,APPENDIX B. -> ARTICLE V. -> Sec. 5.904,35 feet,NONE,35
+(R-5),"1. No building shall exceed thirty-six (36) feet in height except as otherwise provided in article VII.
+2. Building height shall not exceed one (1) story within fifty (50) feet of any R-1, R-2, R-3, R-4, R-4R or M-H district boundary line.",APPENDIX B. -> ARTICLE V. -> Sec. 5.1004,"36 (VII)
+not exceed one story within 50 feet of any R-1, R-2, R-3, R-4, R-4R or MH district boundary line",,
+(M-H),No building shall exceed thirty (30) feet in height except as otherwise provided in article VII.,APPENDIX B. -> ARTICLE V. -> Sec. 5.2004,30 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 30 + sebacks / 2 , 60 )
+churches … : min( 30 + setbacks / 2 , 75 )
+none: 30"
+(S-R),Building height (excluding rooftop appurtenances). Maximum: 18 feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.1103,"excluding rooftop appurtenances, 18",NONE,18
+(C-S),Building height (excluding rooftop appurtenances). Maximum: thirty-six (36) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5. 1204,"excluding rooftop appurtenances, 36",NONE,36
+(C-1),Building height (excluding rooftop appurtenances). Maximum: Thirty-six (36) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.1304,"excluding rooftop appurtenances, 36",NONE,36
+(C-2),Building height (excluding rooftop appurtenances). Maximum: 36 feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5. 1404,"excluding rooftop appurtenances, 36",NONE,36
+(C-3),Building height (excluding rooftop appurtenances). Maximum: thirty-six (36) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.1504,"excluding rooftop appurtenances, 36",NONE,36
+(C-4),"Building height.1.Maximum: Thirty-six (36) feet, except as otherwise provided in Article VII.",APPENDIX B. -> ARTICLE V. -> Sec. 5.1604,36 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 36 + sebacks / 2 , 60 )
+churches … : min( 36 + setbacks / 2 , 75 )
+none: 36"
+(S-S),Building height (excluding rooftop appurtenances). Maximum: Thirty-six (36) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.1704,"excluding rooftop appurtenances, 36",NONE,36
+(C-O),"Building height maximum (excluding rooftop appurtenances).
+1. Maximum: Forty-eight (48) feet.
+2. For portions of buildings within one hundred (100) feet of any Single-family Residential R-1 District or any Two-family Residential R-2, Medium Density Residential R-3, Townhouse Residential R-4, Resort/Townhouse Residential R-4R, or Manufactured Home M-H district, shown on Table 4.100.A., or the portion of a Planned Community P-C or any portion of a Planned Residential Development PRD with an underlying zoning district comparable to these residential districts, maximum: thirty-two (32) feet.",APPENDIX B. -> ARTICLE V. -> Sec. 5.2204,"exluding rooftop appurtenances: 48 feet
+Portions of buildings within 100 feet of any R-1, R-2, R-3, R-4, R-4R, M-H district OR Portion of a P-C OR any portion of a PRD with an underlying zoning district comparable to these residential districts: 32 feet.",,
+(PCoC),Building height (excluding rooftop appurtenances). Maximum: Twenty-four (24) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.2705,"excluding rooftop appurtenances, 24",NONE,24
+(PNC),Building height (excluding rooftop appurtenances). Maximum: Thirty-six (36) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.2406,"excluding rooftop appurtenances, 36",NONE,36
+(PCC),Building height (excluding rooftop appurtenances). Maximum: Thirty-six (36) feet.,APPENDIX B. -> ARTICLE V. -> Sec. 5.2506,"excluding rooftop appurtenances, 36",NONE,36
+(I-G),"1.Maximum: Thirty (30) feet in height, including mechanical equipment.",APPENDIX B. -> ARTICLE V. -> Sec. 5.1904,including mechanical equipment: 30,NONE,30
+(I-1),"1. Maximum: Fifty-two (52) feet, except as otherwise provided below and in Article VII.
+2. Maximum building height within three hundred (300) feet of a residential district shown on Table 4.100.A., or the residential portion of a Planned Community P-C, or any portion of a Planned Residential Development PRD with an underlying zoning district comparable to the residential districts shown on Table 4.100.A.: Thirty-six (36) feet.",APPENDIX B. -> ARTICLE V. -> Sec. 5.1804,"52 (VII)
+within 300 feet of any R-1, R-2, R-3, R-4, R-4R, M-H district, or the residential portion of a P-C, or any protion of  a PRD with underlying zoning district comparable to these residential district: 36 feet.",,
+(D),"Building height: 
+Type 1 within Historic Old Town District: building height maximum is 40 feet;
+Type 1 outside of the Historic Old Toen District: building height maximum is 48 feet;
+Type 2 and Type 2.5: building height maximum is 66 feet;
+Type 3: building height maximum is 84 feet.",APPENDIX B. -> ARTICLE V. -> Sec. 5.3006,"Type 1 withing Historic Old Town District: 40
+Type 1 outside of the Historic Old Town District: 48
+Type 2 and Type 2.5: 66
+Type 3: 84",Type 1 within Historic Old Town District OR Type 1 outside of the Historic Old Town District OR  Type 2 OR Type 3,"Type 1 withing Historic Old Town District: 40
+Type 1 outside of the Historic Old Town District: 48
+Type 2 and Type 2.5: 66
+Type 3: 84"
+(P-C),"This is a zoning district that may be developed only in accordance with a specific development plan. The approved development plan is an integral part of this zoning district and all development shall comply with said plan. The planned community district is designed and intended to enable and encourage the development of large tracts of land which are under unified ownership or control, or lands which by reason of existing or planned land uses are appropriate for development under this section, so as to achieve land development patterns which will maintain and enhance the physical, social and economic values of an area.",APPENDIX B. -> ARTICLE V. -> Sec. 5.2101,NOT SUPPORT,NOT SUPPORT,NOT SUPPORT
+(PRC),"Building height (excluding rooftop appurtenances). Maximum: Sixty (60) feet.
+
+The floor area ratio and building height development standards may be amended to encourage sensitivity to site conditions and provide flexibility in planning.
+Building height (including rooftop appurtenances). Maximum: Ninety (90) feet.",APPENDIX B. -> ARTICLE V. -> Sec. 5.2606 / Sec. 5.2608,"excluding rooftop appurtenances: 60 feet
+including rooftop appurtenances: 90 feet",,
+(PCP),"Maximum near single family residential:
+a. 42 feet within 300 feet of any single-family residential districts shown on Table 4.100.A., or the portion of a Planned Community (P-C) with an underlying zoning district comparable to the single-family residential districts shown on Table 4.100.A., or any Planned Residential Development (PRD) District.",APPENDIX B. -> ARTICLE V. -> Sec. 5.4007,"300 feet of any single-family residential districts, or the portion of P-C within an underlying zoning district comparable to the single-family districts, or any PRD district: 42",,
+(PUD),"Allowable building height.1.Building height:a.Shall be a maximum of forty-eight (48) feet, except as otherwise provided in Section 5.5005.D. and 5.5005.F.
+5.5005.D.
+Exception to building height.
+1. Architecturally integrated features, such as roof top mechanical equipment for utility and communication purposes, elevator bulk head, stairwell, screen wall, railing, trellis and patio cover may exceed the building height up to ten (10) feet provided that the area within the said exceptions do not exceed a total of thirty (30) percent of a building's roof area. However, the City Council may approve either greater mechanical height or building roof area coverage where the DP and supporting materials demonstrate the allowable exception cannot reasonably be achieved.
+2. Architecturally integrated, active solar systems may exceed thirty (30) percent of a building's roof area subject to development review board approval.3.Roof top garden structures may exceed the building height up to five (5) feet.
+5.5005.F.
+Building envelope.
+1. Starting at a point thirty-six (36) feet above the minimum building setback line, the building envelope inclined stepback plane shall slope upwards at 1:1 (ratio of the vertical rise to the horizontal run) to a point measured forty-eight (48) feet above the minimum building setback line. Thereafter the building envelope inclined stepback plane shall slope upwards at 2:1 (ratio of the vertical rise to the horizontal run) on all sides of a property adjacent to public and private streets.
+2. PUD Developments abutting or adjacent to a residential zoning district shall have a building envelope inclined stepback plane of 1:2 (ratio of the vertical rise to the horizontal run) starting on the residential zoning district boundary, except as specified Section 5.5005.F.3.
+PUD Developments adjacent to a residential zoning district, where the properties are separated by a major and/or minor arterial street as classified by the Transportation Master Plan and the Design Standards & Policies Manual, shall comply with Section 5.5005.F.1.",APPENDIX B. -> ARTICLE V. -> Sec. 5.5005,"48 feet
+",,
+P-1,The parking P-1 district is intended to provide necessary off-street parking in appropriate locations for nonresidential uses. It is further intended that the development of such P-1 district be accomplished according to an approved plan so that such vehicle parking may be compatible with adjacent or nearby uses.,APPENDIX B. -> ARTICLE VI. -> Sec. 6.301,NOT SUPPORT,NOT SUPPORT,NOT SUPPORT
+P-2,Building height maximum (excluding rooftop appurtenances): thirty-six (36) feet.,APPENDIX B. -> ARTICLAE VI. -> Sec. 6.404,excluding rooftop appurtenances: 36 feet,NONE,36
+P-3,No building shall exceed eighteen (18) feet in height within one hundred (100) feet of any single-family residential district.,APPENDIX B. -> ARTICLE VI. -> Sec. 6.504,within 100 feet of any single-family residential district: 18 feet,,
+P-4,"It is intended that this overlay zone encourage a reduction in parking requirements for large scale developments, provided that application of the provisions of this Zoning Ordinance will not result in adverse traffic and parking impacts upon the site or the community. The procedure set forth in article I, section 1.300, et seq., shall be followed when applying this zone to any commercial zone provided in this Zoning Ordinance.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.601,NOT SUPPORT,,
+(WP),"No building shall exceed thirty-six (36) feet in height except as otherwise provided in article VII or as follows:
+1. Where the city council determines that the unique operating or structural characteristics of buildings, structures or other facilities located within the themed district justifies a height greater than thirty-six (36) feet, the city council may approve a greater height at the time the development plan is approved or amended, providing the city council finds that any one (1) of the following criteria have been met:(a)The approved development plan contains a use requiring an operational need for a single span building(s) requiring one hundred thousand (100,000) square feet or more of unobstructed floor space (having no interior structural supporting columns or walls) and the required structural roofing spans to accomplish this open area necessitate the increased building height; or(b)The approved development plan provides for underground or structured parking to be placed under a proposed building which raises the building pad and necessitates the increased building height; or(c)The approved development plan provides for preservation of historic or conservation areas within the development plan site, or provisions for public recreation facilities within the development plan site which reduces the area of developable land for buildings and necessitates the increased height to compensate for the reduced building pad area.
+Any building height greater than sixty (60) feet shall be subject to the following additional requirement:
+
+(1)The maximum building height shall be stepped back from the edge of the property line at one (1) foot of vertical dimension for every three (3) feet of horizontal dimension as measured from the base height of sixty (60) feet.",APPENDIX B. -> ARTICLE V. -> Sec. 5.2805,"36 (VII)
+???",,
+(SC),"Except as otherwise permitted in section 6.804.C., or in section 7.100 et seq., the maximum building height shall be thirty-eight (38) feet above the natural grade. Where the city determines that the unique operating or structural characteristics of buildings, structures or other facilities located within the SC District justifies a height greater than that normally allowed within this SC District, the City Council may approve the greater height as a part of the development plan, either as an absolute figure or by means of formulas and performance criteria. Any building height greater than thirty-eight (38) feet shall be subject to the following general criteria:1.These building heights shall be permitted only on those portions of the site not affected by the transition areas as specified in Section 6.805.C.2.a. and b.2.The maximum building height shall be stepped back from the edge of the transition area at one (1) foot of vertical dimension for every three (3) feet of horizontal dimension as measured from the base height of thirty-eight (38) feet.3.For each five (5) feet of building height greater than thirty-eight (38) feet the open space requirement shall be increased by one (1) percent above what is required herein in Section 6.805.B.",APPENDIX B. -> ARTICLE VI. -> Sec 6.804,"38 feet above the natural grade
+???",,
+(HP),"No building, permanent sign, or other structure in an HP District shall be erected, demolished, moved, restored, rehabilitated, reconstructed, altered, or changed in exterior appearance, nor shall any historic resource be altered, moved, remodeled, demolished, enlarged or extended contrary to the Historic Preservation Plan for the HP District or historic resource until plans for such activities have been submitted to and approved by the Historic Preservation Officer or the Historic Preservation Commission, and the City has issued a Certificate of No Effect, a Certificate of Appropriateness, or a Certificate of Demolition Approval for the subject property. This requirement is in addition to any other permit or approval required by law.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.121,NOT SUPPORT,,
+(OS),No building shall exceed twenty-four (24) feet in height except as otherwise provided in article VII.,APPENDIX B. -> ARTICLE VI. -> Sec. 6.904,24 (VII),"public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min( 24 + sebacks / 2 , 60 )
+churches … : min( 24 + setbacks / 2 , 75 )
+none: 24"
+(COS),"Permitted uses. The primary use of the COS district shall be as permanent natural open space. Permitted uses include:1.Unpaved trails or paths for the use of pedestrians, bicycles, and horses.2.Archaeological or historic site.3.Wireless communications facilities; Types 1, 2, and 3 (allowed only when fully concealed on water tanks, City facilities/buildings, and alternative concealment structures), subject to the requirements of sections 1.906, 3.100, and 7.200. Facilities shall be located on the periphery of the district and shall only use existing access drives.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.703/6.704,NOT SUPPORT,NOT SUPPORT,NOT SUPPORT
+(ESL),underlying zoning district,,underlying zoning district,,
+(F-O),"1. Buildings in general: No building shall exceed twenty-four (24) feet in height, except as otherwise provided in this section.
+2. Institutional buildings: Public, semipublic or public service buildings, institutions, or schools, when permitted in a district, may be erected to a height not exceeding forty (40) feet, provided that the buildings are set back from each property line at least twenty-five (25) feet for each one (1) foot of additional building height above twenty-four (24) feet and provided that the building meets all yards and setbacks provided herein and within the underlying district. If the parcel of such a use or building is less than ten (10) gross acres in size the maximum building height shall be twenty-four (24) feet.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.1004,"24 feet
+Institutional building: Public, semipublic or public service buidlings, institutions, or schools, when permitted in a district: 40 feet, provided that the buildings are set back from each propoerty line at least 25 feet for each 1 foot of additional building height above 24 feet
+parcel of such a use or building is less than 10 gross acres in size: 24 feet.",,
+(DO),"1. The building height maximum (including rooftop appurtenances) shall be that of the underlying zoning district, except in the Service Residential S-R district and as allowed in Article VII.
+2. In the S-R District, the building height maximum (excluding rooftop appurtenances) is twenty-six (26) feet, and as allowed in Article VII.3.Rooftop appurtenances that are parapets or railings (with a maximum inside height of forty-five (45) inches) for a rooftop patio are excluded from the building height maximum.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.1205,underlying zoning district,,
+(PBD),"Building height:
+Type 1 within Historic Old Town District: building height maximum is 40 feet;
+Type 1 outside the Historic Old Town District: building height maximum is 48 feet;
+Type 2 and Type 2.5: building height maximum is 66 feet;
+Type 3: building height maixmum is 84 feet.
+Maximum height for rooftop apputenances: 6 feet.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.1308,"Type 1 withing Historic Old Town District: 40
+Type 1 outside of the Historic Old Town District: 48
+Type 2 and Type 2.5: 66
+Type 3: 84
+maximum height for rooftop apputenances: 6 feet",Type 1 within Historic Old Town District OR Type 1 outside of the Historic Old Town District OR  Type 2 OR Type 3 ,"Type 1 withing Historic Old Town District: 40
+Type 1 outside of the Historic Old Town District: 48
+Type 2 and Type 2.5: 66
+Type 3: 84
+maximum height for rooftop apputenances: 6 feet"
+(PSD),underlying zoning district,APPENDIX B. -> ARTICLE VI. -> Sec. 6.1405,underlying zoning district,,
+(PRD),"1. Building height shall not exceed thirty (30) feet.
+2. Buildings shall not exceed one (1) story within fifty (50) feet of an R-1 district boundary line where:
+    I. There exists on an adjacent lot a one-story residence, or
+    II. There are zoning restrictions which limit adjacent undeveloped lots to one-story residences.",APPENDIX B. -> ARTICLE VI. -> Sec. 6.210,"30 feet 
+??",,
+,,,,,
+,,,,,
+ARTICLE VII,"Permissible heights of sixty (60) and seventy-five (75) feet.
+A.Public, semi-public or public service buildings, hospitals, or schools, when permitted in a district, may be erected to a height not exceeding sixty (60) feet, if the building is set back from each yard line at least one (1) foot for each two (2) feet of additional building height above the height limit otherwise provided in the district in which the building is located.
+B.Churches and temples and hospitals with a use permit may be erected to a height not exceeding seventy-five (75) feet if the building is set back from each yard line at least one (1) foot for each two (2) feet of additional building height above the height limit otherwise.",APPENDIX B. -> ARTICLE VII. -> Sec. 7.100,"Public, semi-public or public service building, hospitals, or schools permited in the district ? 
+=> height not exceeding 60 feet. If the building is set back from each yard line at least 1 foot for each 2 feet of additional building height above the height limit
+Churches and temples and hospitals with a use permit ?
+=> height not exceeding 75 feet. If the building is set back from each yard line at least 1 foot for each 2 feet of additional building height above the height limit.","public, semi-public or public service building, hospitals, or schools OR churches and temples and hospitals with a use permit OR none
+set backs from each yard line","public … : min(x + sebacks / 2, 60)
+churches … : min(x + setbacks / 2, 75)
+none: x"
+,"Permissible height and area regulations, exceptions to height restrictions.
+A.Chimneys, church steeples, cooling towers, elevator bulkheads, fire towers, monuments, stacks, stage towers or scenery lifts, tanks, water towers, and grain elevators and necessary mechanical appurtenances and the screening required for said appurtenances provided that both the appurtenances and the screening therefore do not cover more than fifty (50) percent of the roof area, may be erected to a height not exceeding one hundred (100) feet, except as authorized pursuant to Section 5.2604.D.3, in accordance with existing or hereafter adopted ordinances of the City of Scottsdale, Arizona.
+B.In nonresidential districts only, ornamental towers and spires may be erected to a height not exceeding sixty (60) feet. No ornamental tower or spire shall contain occupied space that is higher than the maximum building height for the zone in which such ornamental tower or spire is located.",,"Chimneys, church steeples, cooling towers, elevator bulkheads, fire towers, monuments, stacks, stage towers or scenery lifts, tanks, water towers, and grain elevators and necessary mechanical appurtenances and the screening required for said appurtenances provided that both the appurtenances and the screening therefore do not cover more than 50 percent of the roof are: height not exceeding 100 feet.
+nonresidential district, ornamental towers and spires: 60 feet.","chimneys, church steeples, cooling towers, elevator, bulkheads, fire towers, monuments, stacks, stage towers or scenery lifts, tanks, water towers, and grain elevators and necessary mechanical appurtenances and the screening required for said appurtenances provided that both the appurtenances and the screening therefore do not cover more than 50 percent of the roof OR nonresidential district, ornamental towers, and spires","chimneys … : 100 
+nonresidential … : 60"
