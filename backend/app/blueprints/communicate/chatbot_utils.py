@@ -17,7 +17,7 @@ config = {
     'azure_openai_completion_deployment': "gpt-4o-mini",
     'azure_openai_endpoint': "https://chat-gen-oai.openai.azure.com/",
     'azure_openai_completion_api_version': "2024-02-01",
-    'azure_openai_api_key': "ECBglwfOHgrN8Pa8sU90NPmkTrbDikP1saHn1CFHdzohZCpGyNHmJQQJ99BBAC4f1cMXJ3w3AAABACOGav2N"
+    
 }
 
 _client = {'completion': AzureOpenAI(
